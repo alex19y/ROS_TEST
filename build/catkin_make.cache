@@ -1,0 +1,2 @@
+tst
+-DCATKIN_DEVEL_PREFIX=/home/ros/Desktop/CATKIN1/devel -DCMAKE_INSTALL_PREFIX=/home/ros/Desktop/CATKIN1/install -G Unix Makefiles
